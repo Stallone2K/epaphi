@@ -1,5 +1,5 @@
 <a href="https://github.com/Stallone2K/epaphi"><p align="center">
-<img align="center" height=100 src="https://github.com/Stallone2K/epaphi/blob/Main/public/Logo.png"/>
+<img align="center" height=400 src="https://github.com/Stallone2K/epaphi/blob/Main/public/Logo.png"/>
 
 </p></a>
 <p align="center">
