@@ -1,5 +1,7 @@
-<img align="center" src="images/Logo.png" alt="Epaphi Automations">
-</p></a>
+<!-- <a href="https://dogehouse.tv"><p align="center"> -->
+<img height=100 src="https://github.com/Stallone2K/epaphi/blob/Main/public/Logo.png"/>
+
 <p align="center">
-  <strong>Making Automations Easier Through Connections</strong>W
+  <strong>Making Automations Easier</strong>
 </p>
+<
